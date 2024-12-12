@@ -7,7 +7,7 @@ My name is Navarath, and I would like to bring a potential security issue to you
 ## Description of the Issue
 While searching through Google, I came across the **admin control panel** of ucalgary website. This panel contain sensitive information about that site. I am unsure if this data is real or accessible to unauthorized users, so I report it to the official team. The official team responded me and they raised a ticket.  
 
-The affected page was:  
+The admin page was:  
 `http://webapps2.ucalgary.ca/~groupii/html/admin/admin.php`  
 
 Unfortunately, this page no longer seems to be active, but I have attached screenshots of the panel for your reference.

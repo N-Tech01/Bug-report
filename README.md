@@ -1,4 +1,4 @@
-# Website Vulnerability Report
+# Ucalgary Website Vulnerability Report
 
 ## Overview
 Hello,  

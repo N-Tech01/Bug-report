@@ -1,4 +1,4 @@
-# Ucalgary Website Vulnerability Report
+# Ucalgary Website Admin panel leakage Report
 
 ## Overview
 Hello,  
